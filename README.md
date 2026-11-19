@@ -1,9 +1,10 @@
 # Oriel releases
 
 > **Oriel is now Attimo.** Attimo's downloads are at https://github.com/Kkray19/Attimo-releases.
-> No Attimo release is published there yet; until one is, the newest Oriel release here is the current one.
-> Oriel does not update itself to Attimo: when Attimo is out, install it by hand, once. It brings over Oriel's
-> settings, files and saved keys.
+> Attimo 0.1.0, a beta for invited testers (Mac only), is published there. Oriel's releases stay here, and the newest
+> Oriel release here is still the current Oriel.
+> Oriel does not update itself to Attimo: install Attimo by hand, once, after backing up Oriel's folder (the
+> release notes say how). It brings over Oriel's settings, files and saved keys.
 
 Downloads for **Oriel**, a free native macOS app that puts what's playing, your day and your tools in the
 notch. Oriel was formerly called LocalNook; some of its files and requests still use that name.
